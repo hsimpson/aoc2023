@@ -1,6 +1,7 @@
-use std::time::Instant;
+#![allow(dead_code)]
 
 use crate::utils;
+use std::time::Instant;
 
 #[derive(Debug)]
 struct MapItem {

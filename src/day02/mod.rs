@@ -1,3 +1,5 @@
+#![allow(dead_code)]
+
 use crate::utils;
 use std::{cmp, time::Instant};
 
